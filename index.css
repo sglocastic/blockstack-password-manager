@@ -1,0 +1,17 @@
+.app-container {
+  margin-top: 50px;
+}
+
+.rp15 {
+  margin-right: 10px;
+}
+
+.password {
+  width: 250px;
+  display: inline-block;
+  margin: 0.75rem 15px;
+}
+
+.form {
+  width: 500px;
+}

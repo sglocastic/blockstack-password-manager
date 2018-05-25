@@ -1,0 +1,4 @@
+keychain
+node_modules
+.cache
+dist

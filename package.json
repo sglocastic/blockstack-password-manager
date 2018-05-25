@@ -1,0 +1,19 @@
+{
+  "name": "blockstack-login",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "blockstack": "^17.2.0",
+    "bulma": "^0.7.1",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "jsontokens": "^0.7.8",
+    "parcel-bundler": "^1.8.1",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0"
+  },
+  "scripts": {
+    "dev": "node server.js"
+  }
+}
