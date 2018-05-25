@@ -14,6 +14,7 @@
     "react-dom": "^16.4.0"
   },
   "scripts": {
+    "start": "node serve.js",
     "dev": "node server.js",
     "auth": "node auth-server.js",
     "build": "parcel build index.html"
